@@ -1,6 +1,6 @@
 <h1 align='center'>Hi, I'm Muhammad Akbar Saladin Siregar</h1>
 
-- 🌱 I'm learning VueJS and Golang(Coming Soon)
+- 🌱 I'm learning VueJS,Golang,and Java
 - 📫 Reach me in email : akbarsaladin99@gmail.com
 
 <h1 align='center'>Programming Language</h1>
