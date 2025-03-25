@@ -18,8 +18,8 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phalcon/phalcon-original.svg" alt="phalcon" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gin/gin-original.svg" alt="gin" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fiber/fiber-original.svg" alt="fiber" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gin-gonic/gin-gonic-original.svg" alt="gin" width="40" height="40"/>
+ <img src="https://gofiber.io/assets/images/logo.svg" alt="fiber" width="40" height="40"/>
 </p>
 
 <h1 align='center'>Libraries And Runtime Environments</h1>
