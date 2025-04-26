@@ -1,5 +1,6 @@
 <h1 align='center'>Hi, I'm Muhammad Akbar Saladin Siregar</h1>
 
+- A fullstack engineer with 3+ years experience building with developing new feature, fixing existing feature, and integrating with third-party app.
 - 🌱 I'm learning VueJs and Python in future.
 - 📫 Reach me in email : akbarsaladin99@gmail.com
 
