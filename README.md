@@ -20,7 +20,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phalcon/phalcon-original.svg" alt="phalcon" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="gin-gonic" width="40" height="40"/>
- <img src="https://gofiber.io/assets/images/logo.svg" alt="fiber" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" alt="fiber" width="40" height="40"/>
 </p>
 
 <h1 align='center'>Libraries And Runtime Environments</h1>
