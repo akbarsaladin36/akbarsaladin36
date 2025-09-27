@@ -50,5 +50,6 @@
  <img src="https://avatars.githubusercontent.com/u/863151?s=48&v=4" alt="sequelpro" width="40" height="40"/>
  <img src="https://tableplus.com/resources/favicons/apple-icon-120x120.png" alt="tableplus" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="webstorm" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg" alt="datagrip" width="40" height="40"/>
 </p>
